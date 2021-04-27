@@ -1,0 +1,13 @@
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.exe
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.deps.json
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.runtimeconfig.json
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.runtimeconfig.dev.json
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.csprojAssemblyReference.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.AssemblyInfoInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.AssemblyInfo.cs
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.genruntimeconfig.cache
